@@ -2,7 +2,7 @@
 
 # Olá, Bem vindo ao meu projeto de portfólio. Esse portfólio foi feito por mim durante o curso de HTML e CSS da Alura, e personalizei ele totalmente para deixalo com a minha cara.
 
-![](https://raw.githubusercontent.com/IgorRolimSemeraro/meu-portfolio/main/src/imagens/screenshotpage.png)
+![image](https://raw.githubusercontent.com/IgorRolimSemeraro/meu-portfolio/main/src/imagens/screenshotpage.png)
 
 ## Ferramentas utilizadas:
 
