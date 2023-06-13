@@ -1,6 +1,6 @@
 # Meu Portfólio
 
-# Olá, Bem vindo ao meu projeto de portfólio. Esse portfólio foi feito por mim durante o curso de HTML e CSS da Alura, e personalizei ele totalmente para deixalo com a minha cara.
+# Olá, Bem vindo ao meu projeto de portfólio. Esse portfólio foi feito por mim durante o curso de HTML e CSS da Alura, e personalizei ele totalmente para deixa-lo com a minha cara.
 
 ![image](https://raw.githubusercontent.com/IgorRolimSemeraro/meu-portfolio/main/src/imagens/screenshotpage.png)
 
